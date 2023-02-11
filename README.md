@@ -6,7 +6,7 @@
 - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 - [Opera](https://addons.opera.com/pt-br/extensions/details/tampermonkey-beta/)
 - [Mozilla Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/tampermonkey/)
-> Open the file [amqVoiceUniversal.user.js](https://github.com/43D/amqVoiceUniversal/blob/main/amqVoiceUniversal.user.js) and click in >>>RAW<<<
+> Open the file user.js and click in >>>RAW<<<
 
 > Click in Install
 
